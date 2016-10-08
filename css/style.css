@@ -2,11 +2,13 @@
                     padding: 0, 0, 0, 0;
                     color: aliceblue;
                     font-family: 'Roboto', sans-serif;
+                    font-size: 17px;
                 }
                 
                 body {
-                    background-color: #474748;
                     font-family: 'Roboto', sans-serif;
+                    background: url("../images/fondo1.png") no-repeat center fixed;
+                    background-size: cover;
                 }
                 
                 h1 {
