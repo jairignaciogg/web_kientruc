@@ -410,6 +410,14 @@
                     font-size: 25px;
                 }
                 
+                .count-color {
+                    background: url("../images/fondo1.png")repeat center fixed;
+                }
+                
+                #panel-head {
+                    background-color: #751E00;
+                }
+                
                 .text-count {
                     color: aliceblue;
                     font-family: 'Russo One', sans-serif;
